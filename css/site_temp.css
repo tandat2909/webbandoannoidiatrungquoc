@@ -1207,11 +1207,11 @@ fieldset[disabled] .btn-inverse.active {
 }
 
 .category_item.cat_snack .title_block {
-    color: #6BC15F
+    color: #17bf54
 }
 
 .category_item.cat_snack .page-subheading {
-    background: #6BC15F
+    background: #17bf54
 }
 
 .category_item.cat_fruit .title_block {
@@ -1666,7 +1666,7 @@ fieldset[disabled] .btn-inverse.active {
 }
 
 .blockcart_top .cart-inner {
-    background: #6bc15f;
+    background: #17bf54;
     padding: 11px 15px 9px;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
@@ -1945,7 +1945,7 @@ fieldset[disabled] .btn-inverse.active {
 }
 
 #categories_block .title_block {
-    background: #6bc15f
+    background: #17bf54;
 }
 
 #categories_block .block_content {
@@ -1978,7 +1978,7 @@ fieldset[disabled] .btn-inverse.active {
 }
 
 #categories_block .block_content .list-group li.active a {
-    color: #6bc15f
+    color: #17bf54;
 }
 
 #categories_block .block_content .list-group li:last-child {
@@ -1991,7 +1991,7 @@ fieldset[disabled] .btn-inverse.active {
 }
 
 #categories_block .block_content .list-group li a:hover {
-    color: #6bc15f
+    color: #17bf54;
 }
 
 #categories_block .block_content .list-group li a:before {
@@ -3058,7 +3058,7 @@ ol {
     padding: 0px 15px;
     line-height: 41px;
     color: #fff;
-    background: #6bc15f;
+    background: #17bf54;
     letter-spacing: 2px;
     text-transform: uppercase;
     z-index: 1;
@@ -3462,7 +3462,7 @@ ol {
 .products_bestsell .page-subheading {
     padding: 7px 10px;
     font-size: 18px;
-    background: #6bc15f;
+    background: #17bf54;
     text-align: center;
     letter-spacing: 2px;
 }
@@ -3505,7 +3505,7 @@ ol {
 }
 
 .products_sidebar .page-subheading {
-    background: #6bc15f
+    background: #17bf54;
 }
 
 .products_sidebar .product-block {
@@ -4104,7 +4104,7 @@ ol {
 }
 
 #popup-newletter .pnewle-form .btn:hover {
-    background-color: #6bc15f
+    background-color: #17bf54;
 }
 
 .social-icons {
