@@ -1022,7 +1022,7 @@ fieldset[disabled] .btn-inverse.active {
 
 .btn-inverse .badge {
     color: #333;
-    background-color: #f8694d;
+    background-color: #fd3232;
 }
 
 .block {
@@ -1033,7 +1033,7 @@ fieldset[disabled] .btn-inverse.active {
 
 .block .title_block {
     position: relative;
-    background: #f8694d;
+    background: #fd3232;
     font-family: Arial, sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -1215,11 +1215,11 @@ fieldset[disabled] .btn-inverse.active {
 }
 
 .category_item.cat_fruit .title_block {
-    color: #F8694D
+    color: #fd3232
 }
 
 .category_item.cat_fruit .page-subheading {
-    background: #F8694D
+    background: #fd3232
 }
 
 .category_item.cat_import .title_block {
@@ -1231,11 +1231,11 @@ fieldset[disabled] .btn-inverse.active {
 }
 
 .category_item.cat_beverage .title_block {
-    color: #D4595E
+    color: #fd3232
 }
 
 .category_item.cat_beverage .page-subheading {
-    background: #D4595E
+    background: #fd3232
 }
 
 .category_item.cat_special .title_block {
@@ -1802,7 +1802,7 @@ fieldset[disabled] .btn-inverse.active {
 }
 
 .input-group-search {
-    background: #f8694d;
+    background: #fd3232;
     border: none;
 }
 
@@ -3018,7 +3018,7 @@ fieldset[disabled] .btn-inverse.active {
     width: 38px;
     height: 38px;
     font-size: 11px;
-    background: #f8694d;
+    background: #fd3232;
     display: block;
     font-weight: 700;
     padding: 5px 0;

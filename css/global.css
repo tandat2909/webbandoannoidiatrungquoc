@@ -178,7 +178,7 @@ a {
 }
 a:hover,
 a:focus {
-    color: #f8694d;text-decoration:none
+    color: #fd3232;text-decoration:none
 }
 a:focus {
     outline: thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px
