@@ -980,16 +980,16 @@ fieldset[disabled] .btn-outline-inverse.active {
 .btn-inverse:active,
 .btn-inverse.active {
     color: #fff;
-    background-color: #f8694d;
-    border-color: #f8694d;
+    background-color: #fd3232;
+    border-color: #fd3232;
     -webkit-transition: all 0.35s ease;
     transition: all 0.35s ease;
 }
 
 .open .btn-inverse.dropdown-toggle {
     color: #fff;
-    background-color: #f8694d;
-    border-color: #f8694d;
+    background-color: #fd3232;
+    border-color: #fd3232;
 }
 
 .btn-inverse:active,
